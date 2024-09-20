@@ -36,3 +36,6 @@ The following are the specific steps of the deep dream algorithm:
 4. Calculate the activation gradient with respect to the input image fed to the network.
 5. Modify the image until the activations are maximized, increasng the patterns seen by the network.
 6. Repeat steps 1-5 across multiple scales.
+
+# Note:
+Since the Colab notebook was too large a file, a PDF file has been attached. Several images of the outputs have been hidden or deleted to accomodate the upload to GitHub.
